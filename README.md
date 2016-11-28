@@ -6,6 +6,8 @@ present salary:4.5 Lpm
 i am expecting 30percent hike
 my pno:9035901273
 email:dsreekanth.wls@gmail.com
-staying in pg
+staying in pgjava java technologies
+friday on words starting aws class
+learning aws and devops parallel
 
 
